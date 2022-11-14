@@ -1,0 +1,17 @@
+C:\Users\Carlos Eduardo\Desktop\DesignPatterns\DesignPatterns.GoF\bin\Debug\net6.0\DesignPatterns.GoF.exe
+C:\Users\Carlos Eduardo\Desktop\DesignPatterns\DesignPatterns.GoF\bin\Debug\net6.0\DesignPatterns.GoF.deps.json
+C:\Users\Carlos Eduardo\Desktop\DesignPatterns\DesignPatterns.GoF\bin\Debug\net6.0\DesignPatterns.GoF.runtimeconfig.json
+C:\Users\Carlos Eduardo\Desktop\DesignPatterns\DesignPatterns.GoF\bin\Debug\net6.0\DesignPatterns.GoF.dll
+C:\Users\Carlos Eduardo\Desktop\DesignPatterns\DesignPatterns.GoF\bin\Debug\net6.0\DesignPatterns.GoF.pdb
+C:\Users\Carlos Eduardo\Desktop\DesignPatterns\DesignPatterns.GoF\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Carlos Eduardo\Desktop\DesignPatterns\DesignPatterns.GoF\obj\Debug\net6.0\DesignPatterns.GoF.csproj.AssemblyReference.cache
+C:\Users\Carlos Eduardo\Desktop\DesignPatterns\DesignPatterns.GoF\obj\Debug\net6.0\DesignPatterns.GoF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Eduardo\Desktop\DesignPatterns\DesignPatterns.GoF\obj\Debug\net6.0\DesignPatterns.GoF.AssemblyInfoInputs.cache
+C:\Users\Carlos Eduardo\Desktop\DesignPatterns\DesignPatterns.GoF\obj\Debug\net6.0\DesignPatterns.GoF.AssemblyInfo.cs
+C:\Users\Carlos Eduardo\Desktop\DesignPatterns\DesignPatterns.GoF\obj\Debug\net6.0\DesignPatterns.GoF.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Eduardo\Desktop\DesignPatterns\DesignPatterns.GoF\obj\Debug\net6.0\DesignPatterns.GoF.csproj.CopyComplete
+C:\Users\Carlos Eduardo\Desktop\DesignPatterns\DesignPatterns.GoF\obj\Debug\net6.0\DesignPatterns.GoF.dll
+C:\Users\Carlos Eduardo\Desktop\DesignPatterns\DesignPatterns.GoF\obj\Debug\net6.0\refint\DesignPatterns.GoF.dll
+C:\Users\Carlos Eduardo\Desktop\DesignPatterns\DesignPatterns.GoF\obj\Debug\net6.0\DesignPatterns.GoF.pdb
+C:\Users\Carlos Eduardo\Desktop\DesignPatterns\DesignPatterns.GoF\obj\Debug\net6.0\DesignPatterns.GoF.genruntimeconfig.cache
+C:\Users\Carlos Eduardo\Desktop\DesignPatterns\DesignPatterns.GoF\obj\Debug\net6.0\ref\DesignPatterns.GoF.dll
